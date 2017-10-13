@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'MzY4NDcwMjM2MzA0NzY5MDI0.DMKcOQ.443gBxhab9tzZwZCKSu4INAXuyE';
+const token = '';
 
 client.on('ready', () => {
   console.log("I am ready");

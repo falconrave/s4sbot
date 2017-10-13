@@ -1,0 +1,11 @@
+{
+  "name": "s4sbot",
+  "version": "1.0.0",
+  "description": "discord bot that generates messages from 4chan s4s threads using markov chains",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremiah Batten (Falconrave)",
+  "license": "ISC"
+}
